@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+
+header{border:1px solid #f1f1f1; width:200%; height:200px; background-color:#FFF; margin-left:1%;}
+nav{border:1px solid #f1f1f1; width:90%; height:10px; margin-left:1%;}
+.zhong{border:2px solid purple; width:100%; height:500px; margin-left:1%; margin-top:50px;}
+.m0   {border:2px solid purple; width:18%; height:450px; background-color:#F30; margin-top:20px;margin-left:1%; float:left;}
+.m0 img{width:100%;height:450px;}
+
+.m1   {border:2px solid purple; width:15%; height:120px; float:left;margin-left:2%; margin-top:20px; background-color:#F30;}
+.m1 img{width:100%;height:120px;}
+.m1 font{display: -webkit-box;-webkit-box-pack: center; margin-top:60px;}
+
+
+
+.xia{border:2px solid #E2FFCA; width:100%; height:200px; background-color:#8968CD; margin-left:1%; margin-top:20px;}
